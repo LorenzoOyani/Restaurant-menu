@@ -1,0 +1,13 @@
+logging:
+  level:
+    root: debug
+    com.example.crud_menu: debug
+    org.springframework.web: debug
+    org.hibernate: info
+  group:
+    tomcat: "org.apache.catalina,org.apache.coyote,org.apache.tomcat"
+
+
+
+
+
